@@ -1,0 +1,16 @@
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\bin\Debug\Global Expertise.exe.config
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\bin\Debug\Global Expertise.exe
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\bin\Debug\Global Expertise.pdb
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global Expertise.csprojAssemblyReference.cache
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.Form1.resources
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.Properties.Resources.resources
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global Expertise.csproj.GenerateResource.cache
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global Expertise.csproj.CoreCompileInputs.cache
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global Expertise.exe
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global Expertise.pdb
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.splash.resources
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.ProductForm.resources
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.CategoryForm.resources
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.Sellers.resources
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.SellersForm.resources
+C:\Users\ANDRE_a_MEUNIER\Documents\Projets\Global Expertise\obj\Debug\Global_Expertise.Login.resources
